@@ -5,7 +5,7 @@ BaseKitUI is a forward-looking project that aims to build a fully-styled set of 
 
 It consists of copy-pasteable HTML and CSS "components".
 
-For current todos, see the [project board](https://github.com/orgs/BaseKitUI/projects/1). For the future roadmap, see [future-roadmap.md](https://github.com/BaseKitUI/BaseKitUI/blob/main/future-roadmap.md).
+For current todos, see the [project board](https://github.com/orgs/BaseKitUI/projects/1). For the future roadmap, see [roadmap.md](https://github.com/BaseKitUI/BaseKitUI/blob/main/roadmap.md).
 
 ## The technical principles of this project
 
