@@ -1,7 +1,8 @@
 # BaseKitUI
+
 A modern HTML + CSS foundation
 
-BaseKitUI is a forward-looking project that aims to build a fully-styled set of HTML components using the very latest features in CSS and HTML. This project will grow and improve as the native features of HTML and CSS improve. This is an early stage beta project that is not currently aiming for full browser support. So long as a feature has landed in one browser and is not opposed by any other browser, I'll consider using it. 
+BaseKitUI is a forward-looking project that aims to build a fully-styled set of HTML components using the very latest features in CSS and HTML. This project will grow and improve as the native features of HTML and CSS improve. This is an early stage beta project that is not currently aiming for full browser support. So long as a feature has landed in one browser and is not opposed by any other browser, I'll consider using it.
 
 It consists of copy-pasteable HTML and CSS "components".
 
@@ -22,4 +23,4 @@ For current todos, see the [project board](https://github.com/orgs/BaseKitUI/pro
 
 ## Visual design
 
-The visual design takes inspiration from Shadcn, Tailwind UI, and the design of GitHub.com. 
+The visual design takes inspiration from Shadcn, Tailwind UI, and the design of GitHub.com.
