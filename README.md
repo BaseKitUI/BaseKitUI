@@ -2,16 +2,16 @@
 
 A modern HTML + CSS foundation
 
-BaseKitUI is a forward-looking project that aims to build a fully-styled set of HTML components using the very latest features in CSS and HTML. This project will grow and improve as the native features of HTML and CSS improve. This is an early stage beta project that is not currently aiming for full browser support. So long as a feature has landed in one browser and is not opposed by any other browser, I'll consider using it.
+BaseKitUI is a forward-looking project that aims to build a fully-styled set of HTML components using the latest features in CSS and HTML. This project will grow as the native features of HTML and CSS improve. This is an early stage project that is not currently aiming for full browser support.
 
-It consists of copy-pasteable HTML and CSS "components". In many ways its a return to the days of Bootstrap, but with a modern visual design and utilising contemporary web standards.
+In many ways this project is a return to the days of Bootstrap, but with a modern visual design and utilising contemporary web standards. Download a zip file of CSS. Copy-paste simple HTML markup from the docs. 
 
 For current todos, see the [project board](https://github.com/orgs/BaseKitUI/projects/1). For the future roadmap, see [roadmap.md](https://github.com/BaseKitUI/BaseKitUI/blob/main/roadmap.md).
 
 ## The technical principles of this project
 
 - Uses vanilla CSS (not Sass or CSS-in-JS)
-- Is designed to be copy-pasted, not installed
+- There is no NPM package. This project is designed to be copy-pasted, not installed.
 - Aims for simplicity
 - The documentation website is built using Astro
 - Avoids arcane naming conventions
