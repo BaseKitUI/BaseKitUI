@@ -23,8 +23,8 @@ For current todos, see the [project board](https://github.com/orgs/BaseKitUI/pro
 
 ## Visual design
 
-The visual design takes inspiration from Shadcn, Tailwind UI, and the design of GitHub.com.
+The visual design takes inspiration from Shadcn, Tailwind UI, React Aria, Base UI, Flux UI and the design of GitHub.com.
 
-## Compatibility
+## Compatibility
 
 Because this project is just CSS, it is compatible with every backend templating language, static site generator, CMS, and JavaScript framework (React, Vue, Svelte, Angular, Ember, Solid, Qwik, Marko, Stimulus, HTMX...)
